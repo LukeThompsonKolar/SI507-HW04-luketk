@@ -3,4 +3,4 @@
 #Julia ??? (B)
 
 def get_question():
-	return(input("What is your question?"))
+	return(input("What is your question?\n"))
